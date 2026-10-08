@@ -1,0 +1,7 @@
+aiogram>=3.13,<4
+aiosqlite>=0.20
+yt-dlp>=2025.11.12
+gallery-dl>=1.28
+python-dotenv>=1.0
+aiohttp_socks>=0.9
+tzdata>=2024.1
